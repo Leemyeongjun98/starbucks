@@ -4,7 +4,7 @@
 
 ### HTML/CSS/JS 로 만드는 스타벅스 반응형 웹사이트 입니다. <br>
 ⬇ 아래 내용 모두 읽어보시고, ⬆ 진행중인 코드도 확인해 보세요!
-br><br><br><br><br>
+<br><br><br><br><br>
 
 
 
@@ -12,10 +12,9 @@ br><br><br><br><br>
 - 스타벅스 웹사이트
 
 - HTML/CSS/JS 로 만드는 스타벅스 반응형 웹사이트 입니다.
-- 
+
 
 <br><br><br><br><br>
-
 
 ### 2. 프로젝트 정보
 - 설치(Getting Started / Installation)
@@ -28,9 +27,7 @@ br><br><br><br><br>
     Windows 11 OS
     Visual Studio Code
     
-
-br><br><br><br><br>
-
+<br><br><br><br><br>
 
 ### 3. 프로젝트 진행 순서(진행중)
 
@@ -43,5 +40,4 @@ br><br><br><br><br>
 - 헤더와 드롭다운 메뉴 - 서브 메뉴 (2)
 - 헤더와 드롭다운 메뉴 - BEM
 
-
-br><br><br><br><br>
+<br><br><br><br><br>
