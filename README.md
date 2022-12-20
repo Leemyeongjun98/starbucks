@@ -13,7 +13,7 @@
 
 - HTML/CSS/JS 로 만드는 스타벅스 반응형 웹사이트 입니다.
 
-
+<br><br><br><br><br>
 
 ### 2. 프로젝트 정보
 - 설치(Getting Started / Installation)
