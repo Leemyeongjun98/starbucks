@@ -1,6 +1,6 @@
-# HTML/CSS/JS로 만드는 스타벅스 웹사이트!
+# HTML/CSS/JS로 만드는 스타벅스 웹사이트!<br><br><br>
 
-# ☕ STARBUCKS
+# ☕ STARBUCKS<br><br><br>
 
 
 - HTML/CSS/JS 로 만드는 스타벅스 반응형 웹사이트 입니다. <br>
