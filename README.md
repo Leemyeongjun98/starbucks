@@ -13,6 +13,10 @@
 
 - HTML/CSS/JS 로 만드는 스타벅스 반응형 웹사이트 입니다.
 
+<br><br><br>
+
+![221222](https://user-images.githubusercontent.com/120614041/209096859-d28e6bbe-c3f7-4ccd-b8d8-08d77c1b76ef.png)
+
 
 <br><br><br><br><br>
 
