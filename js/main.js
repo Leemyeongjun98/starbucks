@@ -54,8 +54,26 @@ fadeEls.forEach(function (fadeEl, index) {
 
 // new Swiper(선택자, 옵션)
 new Swiper('.notice-line .swiper-container', {
-    direction:'vertical',
-    autoplay: true,
-    loop: true, 
+    direction: 'vertical',
+    autoplay: true,     //자동재생
+    loop: true,         //반복재생
+});
+
+new Swiper('.promotion .swiper-container', {
+    slidesPerView: 3,   //슬라이드가 보여질 갯수 3
+    spaceBetween: 10,   //슬라이드의 여백 10
+    centeredSlides: true, //1번 슬라이드가 가운데 보이게
+    loop: true,
+    // autoplay:{
+    //      delay : 3000
+    // },
+    pagination: {
+        el: '.promotion .swiper-pagination', //페이지 번호 요소 선택자
+        clickable: true //사용자의 페이지 번호 요소 제어
+    },
+    navigation:{
+        prevEl:'.promotion .swiper-prev',
+        nextEl:'.promotion .swiper-next'
+    }
 });
 
